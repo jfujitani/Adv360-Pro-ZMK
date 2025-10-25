@@ -47,6 +47,7 @@
             hold-while-undecided;
             hold-while-undecided-linger;
             hold-trigger-on-release;
+            flavor = "balanced";
         };
 
         hrm_left_index: hrm_left_index {
