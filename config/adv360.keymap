@@ -48,11 +48,11 @@
 
         Symbols {
             bindings = <
-&kp GRAVE  &kp COMMA  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &trans  &trans  &trans                                      &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans     &trans     &trans            &trans             &trans  &trans  &trans                                      &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans     &trans     &trans            &trans             &trans  &trans  &trans  &trans  &trans      &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans     &trans     &trans            &trans             &trans  &trans                  &trans      &trans                  &trans  &trans  &trans  &trans  &trans  &trans
-&trans     &trans     &trans            &trans             &trans          &trans  &trans  &trans      &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
+&kp GRAVE  &kp COMMA  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp  &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   
+&kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   
+&kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   
+&kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   
+&kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   &kp   
             >;
         };
 
