@@ -29,7 +29,6 @@
             tapping-term-ms = <200>;
             quick-tap-ms = <150>;
             flavor = "balanced";
-            retro-tap;
         };
 
         thumb_layer_access: thumb_layer_access {
