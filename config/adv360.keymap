@@ -242,14 +242,14 @@
             >;
         };
 
-        right_nav {
+        nav {
             display-name = "Fn";
             bindings = <
-&kp F1  &kp F2        &kp F3        &kp F4            &kp F5          &kp F6     &trans                                      &trans  &kp F7          &kp F8           &kp F9             &kp F10          &kp F11        &kp F12
-&trans  &trans        &trans        &trans            &trans          &kp LC(X)  &trans                                      &trans  &none           &kp RIGHT_SHIFT  &kp RIGHT_CONTROL  &kp RIGHT_ALT    &kp RIGHT_GUI  &kp PRINTSCREEN
-&trans  &kp LEFT_GUI  &kp LEFT_ALT  &kp LEFT_CONTROL  &kp LEFT_SHIFT  &kp LC(C)  &trans  &trans  &trans      &trans  &trans  &trans  &kp LEFT_ARROW  &kp DOWN_ARROW   &kp UP_ARROW       &kp RIGHT_ARROW  &none          &kp SCROLLLOCK
-&trans  &trans        &trans        &trans            &trans          &kp LC(P)                  &trans      &trans                  &kp HOME        &kp PAGE_DOWN    &kp PAGE_UP        &kp END          &none          &kp PAUSE_BREAK
-&mo 6   &trans        &trans        &trans            &trans                     &trans  &trans  &trans      &trans  &trans  &trans                  &trans           &trans             &trans           &trans         &trans
+&kp F1  &kp F2        &kp F3        &kp F4            &kp F5          &kp F6  &trans                                      &trans  &kp F7          &kp F8           &kp F9             &kp F10          &kp F11        &kp F12
+&trans  &trans        &trans        &trans            &trans          &trans  &trans                                      &trans  &trans          &kp RIGHT_SHIFT  &kp RIGHT_CONTROL  &kp RIGHT_ALT    &kp RIGHT_GUI  &kp PRINTSCREEN
+&trans  &kp LEFT_GUI  &kp LEFT_ALT  &kp LEFT_CONTROL  &kp LEFT_SHIFT  &trans  &trans  &trans  &trans      &trans  &trans  &trans  &kp LEFT_ARROW  &kp DOWN_ARROW   &kp UP_ARROW       &kp RIGHT_ARROW  &none          &kp SCROLLLOCK
+&trans  &trans        &trans        &trans            &trans          &trans                  &trans      &trans                  &kp HOME        &kp PAGE_DOWN    &kp PAGE_UP        &kp END          &none          &kp PAUSE_BREAK
+&mo 6   &trans        &trans        &trans            &trans                  &trans  &trans  &trans      &trans  &trans  &trans                  &trans           &trans             &trans           &trans         &trans
             >;
         };
 
