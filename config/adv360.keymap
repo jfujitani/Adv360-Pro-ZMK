@@ -166,7 +166,7 @@
         tilde_grave: tilde_grave {
             compatible = "zmk,behavior-mod-morph";
             label = "TILDE_GRAVE";
-            bindings = <&kp GRAVE>, <&kp TILDE>;
+            bindings = <&kp TILDE>, <&kp GRAVE>;
 
             #binding-cells = <0>;
             mods = <(MOD_RSFT|MOD_LSFT)>;
